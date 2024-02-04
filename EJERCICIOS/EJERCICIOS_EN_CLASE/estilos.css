@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Protest+Riot&display=swap');
+
+*{text-align: center;
+font-family: 'Cute Font', sans-serif;
+font-size: 1.2rem;
+}
+header{    
+    background-color: black;
+    width: 100%;
+    height: 40vh;
+}
+h1{
+    color: rgb(177, 220, 206);
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+    word-spacing: 1rem;
+    font-family: 'Protest Riot', sans-serif;
+}
+nav{
+    background-color: rgb(177, 220, 206);
+    width: 100%;
+    height: 15vh;
+}
+section{
+    background-color: rgb(90, 167, 255);
+    width: 70%;
+    height: 40vh;
+}
+aside{
+    background-color: pink;
+    width: 30%;
+    height: 40vh;
+}
+footer{
+    background-color: yellow;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+}
+ul{
+    display: flex;    
+    width: 100%;
+    height: 15vh;    
+    text-align: center;
+    justify-content:space-around;
+}
+li{
+    font-size: 2.8em;
+    list-style-type: none;
+}
